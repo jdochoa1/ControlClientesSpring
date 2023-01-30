@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ControlClientes.iml" filepath="$PROJECT_DIR$/.idea/ControlClientes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mx.com.gm_ControlClientes/HolaMundoSpringData.iml" filepath="$PROJECT_DIR$/mx.com.gm_ControlClientes/HolaMundoSpringData.iml" />
+    </modules>
+  </component>
+</project>
